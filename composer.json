@@ -1,5 +1,5 @@
 {
-    "name": "shipmonk/phpstan-baseline-per-identifier",
+    "name": "mll-lab/phpstan-baseline-per-identifier",
     "description": "Error formatter for PHPStan that generates baseline files per each error identifier",
     "license": [
         "MIT"
